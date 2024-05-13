@@ -1,5 +1,7 @@
 # Alpucate-
-An Interactive Batch Files. I Think This Is Useless
+An Interactive Batch Files
+It Safe, I Did'nt Add A Virus To APC.
+
+Maybe Useless?
 
 Run In Administrator Mode
-Warning! It Can Cause High Risk, So Be Careful.
